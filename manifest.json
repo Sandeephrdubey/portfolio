@@ -3,33 +3,33 @@
   "short_name": "React-Portfolio",
   "icons": [
     {
-      "src": "/portfolio/icons/48.png",
+      "src": "/icons/ 48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "/portfolio/icons/96.png",
+      "src": "/icons/ 96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     
     {
-      "src": "/portfolio/icons/192.png",
+      "src": "/icons/ 192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/portfolio/icons/256.png",
+      "src": "/icons/ 256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "/portfolio/icons/512.png",
+      "src": "/icons/ 512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
      {
-      "src": "/portfolio/icons/144.png",
+      "src": "/icons/ 144.png",
       "type": "image/png",
       "sizes": "144x144"
     }
