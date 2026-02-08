@@ -1,6 +1,6 @@
 {
-  "name": "Portfolio React Application",
-  "short_name": "React-Portfolio",
+  "name": "Sandeep Dubey - Portfolio",
+  "short_name": "SD Portfolio",
   "icons": [
     {
       "src": "/icons/ 48.png",
@@ -40,7 +40,7 @@
   "orientation": "portrait-primary",
   "background_color": "#000",
   "theme_color": "#181a27",
-  "description": "A simple Portfolio App, implementing a lot of PWA",
+  "description": "Sandeep Dubey - Senior Software Developer specializing in Mobile & Backend Development",
   "dir": "ltr",
   "lang": "en-US"
 }
