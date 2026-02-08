@@ -2,9 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import {
   FaReact,
-  FaJava,
   FaGitAlt,
-  FaFire,
   FaMobile,
   FaCode,
   FaDatabase,
@@ -14,12 +12,9 @@ import {
 } from 'react-icons/fa';
 import {
   SiReact,
-  SiJavascript,
   SiTypescript,
   SiRedux,
   SiGraphql,
-  SiSpring,
-  SiExpo,
   SiAndroid,
   SiApple,
   SiNextdotjs,

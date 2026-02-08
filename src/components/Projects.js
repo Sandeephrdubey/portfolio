@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaExternalLinkAlt, FaGooglePlay, FaAppStore, FaGlobe } from 'react-icons/fa';
+import { FaGooglePlay, FaAppStore, FaGlobe } from 'react-icons/fa';
 import '../styles/Projects.css';
 
 const Projects = () => {
